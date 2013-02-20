@@ -1,0 +1,26 @@
+set disable_random_resource 	= 1
+set lang 			= ru
+set cmdhistory_lines 		= 250
+set time_prefix 		= 2
+
+set logging 			= 1
+set load_logs 			= 1
+set logging_dir 		= ../logs
+set logging_ignore_status 	= 1
+set statefile 			= ../mcabber.state
+
+set log_muc_conf 		= 1
+set block_unsubscribed 		= 1
+set delete_on_reject 		= 1
+set autoaway 			= 600
+
+set log_win_height 		= 1
+set log_win_on_top 		= 1
+set color_log 			= black
+set beep_on_message 		= 1
+
+set pinginterval 		= 40
+set hook-post-connect 		= roster toggle_offline
+set buddy_format 		= 2
+set show_status_in_buffer 	= 1
+
