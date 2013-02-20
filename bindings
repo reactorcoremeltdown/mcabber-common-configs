@@ -1,0 +1,7 @@
+bind 521 = buffer up
+bind 514 = buffer down
+bind 267 = roster up
+bind 268 = roster down
+bind M127 = iline word_bdel
+bind M263 = iline word_bdel
+
