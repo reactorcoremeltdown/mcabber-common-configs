@@ -1,0 +1,24 @@
+alias bt = buffer scroll_toggle
+alias pin = roster item_toggle_lock
+alias rt = roster toggle
+alias mb = msay begin
+alias ms = msay send
+alias ma = msay abort
+
+alias u = roster unread_next
+alias s = roster search
+
+alias rto       = roster toggle_offline
+alias c         = connect
+alias dc        = disconnect
+alias q         = quit
+alias me        = say /me
+alias online    = status online
+alias away      = status away
+alias dnd       = status dnd
+alias na        = status notavail
+alias bydlo     = status online быдлакод нашэ фсио!
+
+alias rn        = room names
+
+
