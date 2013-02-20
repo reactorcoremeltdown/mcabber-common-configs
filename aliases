@@ -1,12 +1,12 @@
-alias bt = buffer scroll_toggle
-alias pin = roster item_toggle_lock
-alias rt = roster toggle
-alias mb = msay begin
-alias ms = msay send
-alias ma = msay abort
+alias bt	= buffer scroll_toggle
+alias pin 	= roster item_toggle_lock
+alias rt 	= roster toggle
+alias mb 	= msay begin
+alias ms 	= msay send
+alias ma 	= msay abort
 
-alias u = roster unread_next
-alias s = roster search
+alias u 	= roster unread_next
+alias s 	= roster search
 
 alias rto       = roster toggle_offline
 alias c         = connect
