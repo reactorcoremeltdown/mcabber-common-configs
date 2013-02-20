@@ -4,4 +4,5 @@ bind 267 	= roster up
 bind 268 	= roster down
 bind M127 	= iline word_bdel
 bind M263 	= iline word_bdel
-
+bind 17 	= roster unread_next
+bind 10 	= iline iline_accept
