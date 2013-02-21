@@ -24,3 +24,7 @@ set hook-post-connect 		= roster toggle_offline
 set buddy_format 		= 2
 set show_status_in_buffer 	= 1
 
+set events_command = ~/.mcabber/eventcmd
+set event_log_files = 1
+set event_log_dir = ~/.mcabber/event_files
+
